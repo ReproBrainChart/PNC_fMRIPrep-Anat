@@ -1,0 +1,5 @@
+[submodule "inputs/data"]
+	path = inputs/data
+	url = /cbica/projects/pennlinc_rbc/datasets/LINC_PNC/derivatives/fmriprep_anat-25-0-0-babs/output_ria/alias/data
+	datalad-id = 7cbb26ee-552f-460e-b7d3-ab5bd6683681
+	datalad-url = "ria+file:///cbica/projects/pennlinc_rbc/datasets/LINC_PNC/derivatives/fmriprep_anat-25-0-0-babs/output_ria#~data"
