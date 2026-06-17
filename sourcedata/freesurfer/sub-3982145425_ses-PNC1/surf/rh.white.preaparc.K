@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/G2/fq/SHA256E-s642899--a8458655cce4deef1f3ecb2815defe894d0dd8e7eafb531b60245ef20e05a173.K/SHA256E-s642899--a8458655cce4deef1f3ecb2815defe894d0dd8e7eafb531b60245ef20e05a173.K
